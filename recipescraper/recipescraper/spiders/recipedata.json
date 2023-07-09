@@ -1,0 +1,154 @@
+[
+    {
+        "title": "Kung Pao Chicken",
+        "slug": "kung-pao-chicken",
+        "description": "Skip take-out and make this Kung Pao Chicken at home! This spicy, sweet Chinese stir-fry is made with hot chilis, Szechwan peppercorns, garlic, ginger, and unsalted peanuts. Serve with rice for a weeknight meal.",
+        "categories": ["Chicken", "Dinner"],
+        "cuisine": ["Chinese"],
+        "keywords": "1-Pot, Quick and Easy, Restaurant Favorite, Stir-fry, Chicken Breast, Gluten-Free",
+        "rating": "5",
+        "prepTime": { "hours": "", "minutes": 15 },
+        "cookTime": { "hours": "", "minutes": 10 },
+        "servings": { "quantity": "4", "yield": "" },
+        "nutrition": null,
+        "ingredients": [
+            { "sentence": "For the marinade", "quantity": "", "unit": "", "name": "", "comment": "For the marinade", "id": "744e90be-61c6-44f0-9efa-1220d66668af", "isLabel": true },
+            { "sentence": "2 teaspoons soy sauce", "quantity": "2", "unit": "teaspoons", "name": "soy sauce", "comment": "", "id": "5a63fa0c-6faa-47d1-bbd4-1c8e571df5e6", "isLabel": false },
+            {
+                "sentence": "1 1/2 teaspoons sherry, or Shaoxing rice wine",
+                "quantity": "1.5",
+                "unit": "teaspoons",
+                "name": "sherry",
+                "comment": "or Shaoxing rice wine",
+                "id": "e34d9059-4c79-4db5-aaf6-f9037f73473f",
+                "isLabel": false
+            },
+            { "sentence": "1 tablespoon water", "quantity": "1", "unit": "tablespoon", "name": "water", "comment": "", "id": "bf3cd489-d012-4540-9d87-2d1ed34c7001", "isLabel": false },
+            { "sentence": "2 teaspoons cornstarch", "quantity": "2", "unit": "teaspoons", "name": "cornstarch", "comment": "", "id": "d07bd036-cd2e-4ef9-a064-76d79de0c564", "isLabel": false },
+            { "sentence": "For the sauce", "quantity": "", "unit": "", "name": "", "comment": "For the sauce", "id": "5d2b8ed6-2cbf-4bef-af03-84a43160f345", "isLabel": true },
+            {
+                "sentence": "3 teaspoons Chinkiang vinegar, or 2 teaspoons of apple cider vinegar",
+                "quantity": "3",
+                "unit": "teaspoons",
+                "name": "Chinkiang vinegar",
+                "comment": "or 2 teaspoons of apple cider vinegar",
+                "id": "23c61ba2-3be0-4191-b2ac-0d2beb72bc61",
+                "isLabel": false
+            },
+            { "sentence": "2 teaspoons soy sauce", "quantity": "2", "unit": "teaspoons", "name": "soy sauce", "comment": "", "id": "76c14a5a-a58d-4f67-aadf-ed8933b63818", "isLabel": false },
+            { "sentence": "1 teaspoon sesame oil", "quantity": "1", "unit": "teaspoon", "name": "sesame oil", "comment": "", "id": "3ef4322f-979b-4279-a4fa-2b31b403f35a", "isLabel": false },
+            { "sentence": "1 tablespoon water", "quantity": "1", "unit": "tablespoon", "name": "water", "comment": "", "id": "6a3ca9f6-55d3-4125-bef3-40b3127f1f61", "isLabel": false },
+            { "sentence": "3 teaspoons sugar", "quantity": "3", "unit": "teaspoons", "name": "sugar", "comment": "", "id": "18ab5d18-9f1f-40b9-91eb-d5e7b7707cb6", "isLabel": false },
+            { "sentence": "1 teaspoon cornstarch", "quantity": "1", "unit": "teaspoon", "name": "cornstarch", "comment": "", "id": "4c575b67-840e-41a1-b1ce-086dd1fff29b", "isLabel": false },
+            { "sentence": "For the chicken", "quantity": "", "unit": "", "name": "", "comment": "For the chicken", "id": "11a30c2d-6cb6-461a-a34d-d8977dc7b902", "isLabel": true },
+            {
+                "sentence": "2 large boneless, skinless chicken breasts",
+                "quantity": "2",
+                "unit": "large",
+                "name": "chicken breasts",
+                "comment": "boneless, skinless",
+                "id": "6f80b478-c807-4e5d-ab5b-2bbbe107818b",
+                "isLabel": false
+            },
+            {
+                "sentence": "8 dried chili red peppers (preferably Tien Tsin variety)",
+                "quantity": "8",
+                "unit": "",
+                "name": "chili red peppers",
+                "comment": "dried, (preferably Tien Tsin variety)",
+                "id": "3cce423c-d098-4b40-8d62-4f5f8ccdb84f",
+                "isLabel": false
+            },
+            {
+                "sentence": "2 1/2 tablespoons sesame oil",
+                "quantity": "2.5",
+                "unit": "tablespoons",
+                "name": "sesame oil",
+                "comment": "",
+                "id": "a6e1d6b6-4769-4c3e-bb0b-e2f33f775adb",
+                "isLabel": false
+            },
+            {
+                "sentence": "1 teaspoon whole Szechwan peppercorns (optional)",
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "Szechwan peppercorns",
+                "comment": "whole, (optional)",
+                "id": "9239499b-4117-4a50-987a-99bfc2a82f55",
+                "isLabel": false
+            },
+            {
+                "sentence": "1 tablespoon freshly grated ginger",
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "ginger",
+                "comment": "freshly grated",
+                "id": "6063a473-9c8a-493d-8e79-4d8bb4a2bf45",
+                "isLabel": false
+            },
+            {
+                "sentence": "3 cloves garlic, thinly sliced",
+                "quantity": "3",
+                "unit": "cloves",
+                "name": "garlic",
+                "comment": "thinly sliced",
+                "id": "08db958d-eda2-4df8-8420-d44b60b0fb9c",
+                "isLabel": false
+            },
+            { "sentence": "6 green onions, chopped", "quantity": "6", "unit": "", "name": "green onions", "comment": "chopped", "id": "fb1ce7b0-f7bf-46b8-949a-4991b693393c", "isLabel": false },
+            {
+                "sentence": "2/3 cup roasted, unsalted peanuts",
+                "quantity": "0.667",
+                "unit": "cups",
+                "name": "",
+                "comment": "roasted, unsalted peanuts",
+                "id": "5e8ba68c-cd1b-4191-b85f-1da3068886c1",
+                "isLabel": false
+            }
+        ],
+        "instructions": [
+            { "type": "h3", "children": [{ "text": "Marinate chicken:" }] },
+            { "children": [{ "text": "Mix together the marinade ingredients. Chop the chicken into bite sized pieces, toss them in the marinade, and set aside." }] },
+            { "type": "h3", "children": [{ "text": "Whisk together sauce ingredients:" }] },
+            { "children": [{ "text": "Combine all the ingredients for the sauce, whisking well to ensure the cornstarch is fully incorporated. Set aside." }] },
+            { "type": "h3", "children": [{ "text": "Prep the seasonings:" }] },
+            {
+                "children": [
+                    {
+                        "text": "Break the chilies open and discard the seeds inside, then cut them into a few large pieces (the dish will already be very hot, keeping the seeds will make it near inedible)."
+                    }
+                ]
+            },
+            { "type": "h3", "children": [{ "text": "Stir-fry chilies and peppercorns:" }] },
+            {
+                "children": [
+                    {
+                        "text": "Place the 2 1/2 tablespoons of sesame oil in a wok or large sauté pan and place over medium-high heat. Add the chilies and Szechwan peppercorns, if using. Stir-fry for a few second until they become fragrant being careful not to burn them."
+                    }
+                ]
+            },
+            { "type": "h3", "children": [{ "text": "Add the chicken and aromatics:" }] },
+            {
+                "children": [
+                    { "text": "Add the chicken. As soon as the pieces have separated, add the ginger, garlic, and green onions. Stir-fry for a few minutes until the chicken is cooked through." }
+                ]
+            },
+            { "type": "h3", "children": [{ "text": "Finish the stir fry:" }] },
+            { "children": [{ "text": "Add the sauce and toss. When the sauce becomes thick, add the peanuts, toss, and serve." }] }
+        ],
+        "_status": "published",
+        "datePublished": "2010-06-02T19:54:50.000-04:00",
+        "image_urls": [
+            "https://www.simplyrecipes.com/thmb/Ev84N78NNhB5mmMviCPKtfO6Nlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Kung-Pao-Chicken-METHOD-LEAD-4-SEO-855b5dc5f4af439996d4b0a12558b0b8.jpg"
+        ],
+        "image_name": "kung-pao-chicken",
+        "images": [
+            {
+                "url": "https://www.simplyrecipes.com/thmb/Ev84N78NNhB5mmMviCPKtfO6Nlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Kung-Pao-Chicken-METHOD-LEAD-4-SEO-855b5dc5f4af439996d4b0a12558b0b8.jpg",
+                "path": "kung-pao-chicken.jpg",
+                "checksum": "e4aa30d549ac73bbd0ebc0c318bc8797",
+                "status": "downloaded"
+            }
+        ]
+    }
+]
