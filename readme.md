@@ -1,4 +1,8 @@
-### Create virtual environment
+# Recipe Scrapy
+
+Python tool for scraping recipes.
+
+## Create virtual environment
 
 ```shell
 python3 -m venv venv
@@ -8,7 +12,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-#### Exit
+### Exit
 
 ```shell
 deactivate
@@ -16,19 +20,19 @@ deactivate
 
 <br />
 
-### Install packages
+## Install packages
 
 ```shell
 python3 -m pip install {PACKAGE_NAME}
 ```
 
-#### Update requirements.txt
+### Update requirements.txt
 
 ```shell
 pip freeze > requirements.txt
 ```
 
-#### Install from requirements.txt
+### Install from requirements.txt
 
 ```shell
 pip install -r requirements.txt
@@ -36,7 +40,7 @@ pip install -r requirements.txt
 
 <br />
 
-### Run shell
+## Run shell
 
 ```shell
 scrapy shell
@@ -48,7 +52,7 @@ fetch('URL')
 
 <br />
 
-### Run crawler
+## Run crawler
 
 ```shell
 cd recipescraper/recipescraper/spiders
