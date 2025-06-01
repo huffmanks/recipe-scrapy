@@ -1,6 +1,6 @@
 # Recipe Scrapy
 
-Python tool for scraping recipes.
+Python scraper for collecting structured recipe data from websites.
 
 ## Create virtual environment
 
